@@ -620,7 +620,7 @@ input[type=text]{
         position: relative;
         top: 1rem;
         left: 5rem;
-        width: 100%;
+        width: 0%;
     }
 
     #getstart_btn{
